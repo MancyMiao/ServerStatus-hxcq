@@ -1,0 +1,44 @@
+{"servers":
+	[
+		{
+			"username": "SGP1",
+			"name": "新加坡1号节点",
+			"type": "KVM",
+			"host": "sgp1.gtaol.me",
+			"location": "SGP",
+			"password": "MancyMiao"
+		},
+		{
+			"username": "SGP2",
+			"name": "新加坡2号节点",
+			"type": "KVM",
+			"host": "sgp2.gtaol.me",
+			"location": "SGP",
+			"password": "MancyMiao"
+		},
+		{
+			"username": "HK1",
+			"name": "香港1号节点",
+			"type": "KVM",
+			"host": "hk1.gtaol.me",
+			"location": "HK",
+			"password": "MancyMiao"
+		},
+		{
+			"username": "HK2",
+			"name": "香港2号节点",
+			"type": "KVM",
+			"host": "hk2.hxcq.ooo",
+			"location": "HK",
+			"password": "MancyMiao"
+		},
+		{
+			"username": "US1",
+			"name": "美国1号节点",
+			"type": "KVM",
+			"host": "us1.gtaol.me",
+			"location": "US",
+			"password": "MancyMiao"
+		}
+	]
+}
